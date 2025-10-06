@@ -1,0 +1,12 @@
+{
+  "usuario1": {
+    "nome": "João Teste",
+    "email": "joao.teste@example.com",
+    "senha": "123456"
+  },
+  "usuario2": {
+    "nome": "Maria QA",
+    "email": "maria.qa@example.com",
+    "mensagem": "Gostaria de saber mais sobre os produtos."
+  }
+}

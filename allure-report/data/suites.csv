@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","23756","Deve cadastrar um usuário com sucesso","","Mon Oct 06 14:15:24 GMT-03:00 2025","failed","Mon Oct 06 14:15:48 GMT-03:00 2025","","Cadastro de novo usuário","",""
+"","8960","Deve realizar login com sucesso","","Mon Oct 06 14:11:10 GMT-03:00 2025","passed","Mon Oct 06 14:11:19 GMT-03:00 2025","","Login de usuário","",""
+"","9922","Deve buscar um produto e adicioná-lo ao carrinho com sucesso","","Mon Oct 06 14:09:34 GMT-03:00 2025","passed","Mon Oct 06 14:09:44 GMT-03:00 2025","","Adicionar produto ao carrinho","",""
+"","7390","Deve enviar o formulário de contato com sucesso","","Mon Oct 06 14:10:28 GMT-03:00 2025","passed","Mon Oct 06 14:10:36 GMT-03:00 2025","","Formulário de Contato","",""
+"","8648","Deve adicionar e remover um produto do carrinho","","Mon Oct 06 14:11:26 GMT-03:00 2025","passed","Mon Oct 06 14:11:35 GMT-03:00 2025","","Remover produto do carrinho","",""
